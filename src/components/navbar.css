@@ -1,0 +1,6 @@
+.navbarWrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-family: "Open Sans", sans-serif;
+}

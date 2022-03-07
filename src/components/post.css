@@ -1,0 +1,27 @@
+.postWrapper {
+  background-color: rgba(255, 255, 255, 0.671);
+  margin-bottom: 10;
+  padding: 10;
+  -webkit-box-shadow: 5px 5px 9px 5px rgba(0, 0, 0, 0.22);
+  box-shadow: 5px 5px 9px 5px rgba(0, 0, 0, 0.22);
+
+  cursor: pointer;
+}
+
+h1 {
+  font-size: xx-large;
+  margin-left: 10px;
+  font-family: "Open Sans", sans-serif;
+}
+
+p {
+  margin-left: 10px;
+}
+
+hr {
+  width: 90%;
+}
+
+span {
+  margin-left: 10px;
+}
